@@ -18,7 +18,7 @@ Get `cubic-mods-android-<version>.apk` from the [Releases](../../releases) page.
 
 ## Install
 
-https://youtu.be/CER2sC78x2k
+[![Watch the Video](https://img.youtube.com/vi/CER2sC78x2k/maxresdefault.jpg)](https://youtu.be/CER2sC78x2k)
 
 1. Open the downloaded APK on your phone. If Android asks, allow your browser or file app to install unknown apps.
 2. Open **Cubic Mods** and follow the setup screen:
