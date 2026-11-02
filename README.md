@@ -18,6 +18,8 @@ Get `cubic-mods-android-<version>.apk` from the [Releases](../../releases) page.
 
 ## Install
 
+https://youtu.be/CER2sC78x2k
+
 1. Open the downloaded APK on your phone. If Android asks, allow your browser or file app to install unknown apps.
 2. Open **Cubic Mods** and follow the setup screen:
    - **Allow display over other apps** so it can draw over the game.
